@@ -3,7 +3,7 @@
 ## Fare la spesa seguendo una lista
 
 - Creazione della lista
-    - faccio la lista con cio che mi serve
+    - faccio la lista con ciò che mi serve
     - apro il frigo
     - PER TUTTI GLI ELEMENTI DELLA LISTA
         - SE (elemento della lista non é presente nel frigo)
